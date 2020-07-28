@@ -1,9 +1,9 @@
 # Job-Portal
 
 # About Website
-1)This website displays categories of jobs like Government jobs and Corporate jobs as well.
+1) This website displays categories of jobs like Government jobs and Corporate jobs as well.
 
-2)You can also make your own resume. 
+2) You can also make your own resume. 
 
 -------------------------------------------
 # Steps For Execution 
